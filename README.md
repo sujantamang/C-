@@ -28,9 +28,8 @@ Eric  Taylor  1003  84.0
 
 
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
--------------------- ASSIGNMENT-2 -------------------------------
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+      ASSIGNMENT-2  
+
 (1)	Derive a child class of GradStudent by treating Student as a parent class.
 
 •	Add a new data member: Biometrics score. 
