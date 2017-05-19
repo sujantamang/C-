@@ -94,6 +94,17 @@ int main()
     //iterator declaration
     vector<Student*>::iterator iter;
 
-
+    //looping through the vector using iterator to
+    //print out the result
+    for(iter=things.begin();iter!=things.end(); iter++)
+    {
+        cout << setw(10) << left << (*iter)-> getFirstName()
+             << setw(10) << left << (*iter)-> getLastName()
+             << setw(7)  << (*iter)-> getId()
+             << setw(7)  << fixed
+             << setprecision(1)<< (*iter)-> compAveScore() << endl;
+    }
+    
+    return 0;
 }
 
