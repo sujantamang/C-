@@ -1,5 +1,5 @@
 // Sujan Tamang.
-// Assignment-3, Ex-1.
+// Assignment-1:pointer
 #include<iostream>
 #include<cstring>
 #include<cstdlib>
