@@ -31,4 +31,5 @@ last name, number of items purchased, price of a single item, and total spending
     1001      Scott   Adams   3   22.86   68.58
     
     1002   Nicholas   Allen    8   10.00    80.00
+    
 
